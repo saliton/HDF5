@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/HDF5/blob/main/HDF5.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saliton/HDF5/blob/main/HDF5.ipynb)
 
 # C言語でHDF5に逐次アクセスする方法
 
